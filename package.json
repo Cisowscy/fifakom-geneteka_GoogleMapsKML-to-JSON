@@ -1,0 +1,17 @@
+{
+  "name": "github-geneteka-fifakom__googlemapskml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tmcw/togeojson": "^5.1.3",
+    "core-js": "^3.22.8",
+    "lodash": "^4.17.21",
+    "xmldom": "^0.6.0"
+  }
+}
